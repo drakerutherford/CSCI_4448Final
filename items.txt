@@ -5,23 +5,10 @@
 //lvl
 //char
 
-Item: Wooden Stick
-WEAPON
-1
-1
-|
-
 Item: Red Potion
 HEAL
-5
+20
 1
 p
-
-Item: Leather Armor
-ARMOR
-3
-1
-%
-
 
 

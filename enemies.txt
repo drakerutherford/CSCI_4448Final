@@ -13,7 +13,7 @@ Enemy: Spider
 3
 5
 1
-s
+S
 
 Enemy: Goblin
 20

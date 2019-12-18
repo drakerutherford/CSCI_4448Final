@@ -2,74 +2,79 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="Character.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="enemies.txt" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="126" topLine="72" />
+			<Cursor1 position="89" topLine="2" />
 		</Cursor>
 	</File>
-	<File name="Enemy.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Character.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="296" topLine="7" />
+			<Cursor1 position="3152" topLine="89" />
+		</Cursor>
+	</File>
+	<File name="FileLoader.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="373" topLine="61" />
+		</Cursor>
+	</File>
+	<File name="EntityPool.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="87" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="ArmorStrategy.cpp" open="1" top="1" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="75" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Character.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="842" topLine="20" />
 		</Cursor>
 	</File>
 	<File name="Entity.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="303" topLine="0" />
+			<Cursor1 position="303" topLine="9" />
 		</Cursor>
 	</File>
-	<File name="Game.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Game.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1004" topLine="0" />
+			<Cursor1 position="2526" topLine="6" />
 		</Cursor>
 	</File>
-	<File name="ItemStrategy.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Floor.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="296" topLine="5" />
-		</Cursor>
-	</File>
-	<File name="Character.h" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="120" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="ArmorStrategy.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="178" topLine="0" />
+			<Cursor1 position="523" topLine="18" />
 		</Cursor>
 	</File>
 	<File name="HealStrategy.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="172" topLine="0" />
+			<Cursor1 position="130" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="items.txt" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Enemy.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="159" topLine="0" />
+			<Cursor1 position="1085" topLine="8" />
 		</Cursor>
 	</File>
-	<File name="Game.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Enemy.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="165" topLine="0" />
+			<Cursor1 position="169" topLine="5" />
 		</Cursor>
 	</File>
-	<File name="ArmorStrategy.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="ItemStrategy.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="227" topLine="0" />
+			<Cursor1 position="0" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="FileLoader.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Item.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="160" topLine="4" />
+			<Cursor1 position="580" topLine="29" />
 		</Cursor>
 	</File>
-	<File name="EntityPool.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="WeaponStrategy.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1581" topLine="55" />
-		</Cursor>
-	</File>
-	<File name="WeaponStrategy.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="292" topLine="0" />
+			<Cursor1 position="217" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="Entity.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -77,49 +82,39 @@
 			<Cursor1 position="293" topLine="16" />
 		</Cursor>
 	</File>
-	<File name="EntityPool.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="ArmorStrategy.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="87" topLine="0" />
+			<Cursor1 position="268" topLine="4" />
 		</Cursor>
 	</File>
-	<File name="Item.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="Game.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="652" topLine="0" />
+			<Cursor1 position="165" topLine="13" />
 		</Cursor>
 	</File>
-	<File name="FileLoader.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="ItemStrategy.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="353" topLine="25" />
+			<Cursor1 position="124" topLine="7" />
 		</Cursor>
 	</File>
-	<File name="HealStrategy.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="WeaponStrategy.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="284" topLine="0" />
+			<Cursor1 position="273" topLine="4" />
 		</Cursor>
 	</File>
-	<File name="Item.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+	<File name="Floor.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1111" topLine="33" />
+			<Cursor1 position="3295" topLine="52" />
 		</Cursor>
 	</File>
-	<File name="WeaponStrategy.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="items.txt" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="184" topLine="0" />
+			<Cursor1 position="84" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="Floor.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="EntityPool.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="190" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="enemies.txt" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="0" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="Floor.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1695" topLine="51" />
+			<Cursor1 position="1743" topLine="55" />
 		</Cursor>
 	</File>
 	<File name="main.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -127,9 +122,19 @@
 			<Cursor1 position="200" topLine="6" />
 		</Cursor>
 	</File>
-	<File name="Enemy.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="FileLoader.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="310" topLine="6" />
+			<Cursor1 position="160" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="HealStrategy.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="265" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="Item.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="567" topLine="9" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
