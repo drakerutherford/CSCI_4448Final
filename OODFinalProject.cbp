@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="OODFinalProject" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="windows/bin/Debug/OODFinalProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="windows/obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="windows/bin/Release/OODFinalProject" prefix_auto="1" extension_auto="1" />
+				<Option object_output="windows/obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ArmorStrategy.cpp" />
+		<Unit filename="ArmorStrategy.h" />
+		<Unit filename="Character.cpp" />
+		<Unit filename="Character.h" />
+		<Unit filename="Enemy.cpp" />
+		<Unit filename="Enemy.h" />
+		<Unit filename="Entity.cpp" />
+		<Unit filename="Entity.h" />
+		<Unit filename="EntityPool.cpp" />
+		<Unit filename="EntityPool.h" />
+		<Unit filename="FileLoader.cpp" />
+		<Unit filename="FileLoader.h" />
+		<Unit filename="Floor.cpp" />
+		<Unit filename="Floor.h" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.h" />
+		<Unit filename="HealStrategy.cpp" />
+		<Unit filename="HealStrategy.h" />
+		<Unit filename="Item.cpp" />
+		<Unit filename="Item.h" />
+		<Unit filename="ItemStrategy.cpp" />
+		<Unit filename="ItemStrategy.h" />
+		<Unit filename="Variables.h" />
+		<Unit filename="WeaponStrategy.cpp" />
+		<Unit filename="WeaponStrategy.h" />
+		<Unit filename="enemies.txt" />
+		<Unit filename="items.txt" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

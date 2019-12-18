@@ -1,0 +1,24 @@
+//FORMAT
+//Enemy: name
+//hp
+//atk
+//def
+//exp
+//lvl
+//char
+
+Enemy: Spider
+10
+5
+3
+5
+1
+s
+
+Enemy: Goblin
+20
+7
+5
+3
+2
+G

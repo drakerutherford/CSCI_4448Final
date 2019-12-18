@@ -1,0 +1,152 @@
+# depslib dependency file v1.0
+1576610633 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\entity.cpp
+	<curses.h>
+	"Entity.h"
+
+1576608276 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\entity.h
+	<curses.h>
+
+1576635662 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\item.cpp
+	<string>
+	"Item.h"
+	"Entity.h"
+	"ItemStrategy.h"
+	"HealStrategy.h"
+	"WeaponStrategy.h"
+	"ArmorStrategy.h"
+
+1576633550 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\item.h
+	<string>
+	"Entity.h"
+	"Character.h"
+	"ItemStrategy.h"
+
+1576638851 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\character.cpp
+	<curses.h>
+	<string>
+	<string.h>
+	"Character.h"
+	"Item.h"
+	"Variables.h"
+
+1576638809 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\character.h
+	<vector>
+	<string>
+	<queue>
+	"Entity.h"
+	"Item.h"
+
+1576638917 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\enemy.cpp
+	<stdio.h>
+	<string>
+	"Enemy.h"
+	"Entity.h"
+	"Variables.h"
+
+1576637137 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\enemy.h
+	<string>
+	"Entity.h"
+	"Character.h"
+
+1576629548 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\entitypool.cpp
+	<vector>
+	<array>
+	<stdlib.h>
+	<time.h>
+	"Enemy.h"
+	"Item.h"
+	"EntityPool.h"
+
+1576629548 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\entitypool.h
+	<vector>
+	<array>
+	"Enemy.h"
+	"Item.h"
+
+1576638440 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\floor.cpp
+	<stdlib.h>
+	<time.h>
+	<curses.h>
+	"Floor.h"
+	"Character.h"
+
+1576638364 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\floor.h
+	<vector>
+	<curses.h>
+	"Item.h"
+	"Enemy.h"
+	"EntityPool.h"
+	"Character.h"
+	"Variables.h"
+
+1576634586 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\fileloader.cpp
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<vector>
+	<array>
+	"FileLoader.h"
+	"EntityPool.h"
+	"Enemy.h"
+	"Item.h"
+
+1576383322 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\fileloader.h
+	"EntityPool.h"
+
+1576614670 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"FileLoader.h"
+	"Game.h"
+	"FileLoader.h"
+	"EntityPool.h"
+
+1576632389 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\game.h
+	<string>
+	<curses.h>
+	"Character.h"
+	"Floor.h"
+	"EntityPool.h"
+	"Variables.h"
+
+1576639047 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\game.cpp
+	<string>
+	<windows.h>
+	<winbase.h>
+	<curses.h>
+	<stdlib.h>
+	<time.h>
+	"Game.h"
+	"EntityPool.h"
+
+1576635970 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\itemstrategy.h
+	<string>
+	"Character.h"
+
+1576635718 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\armorstrategy.cpp
+	"ArmorStrategy.h"
+
+1576635958 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\armorstrategy.h
+	"ItemStrategy.h"
+	"Character.h"
+
+1576635718 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\healstrategy.cpp
+	"HealStrategy.h"
+
+1576635987 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\healstrategy.h
+	"ItemStrategy.h"
+	"Character.h"
+
+1576553845 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\itemstrategy.cpp
+	"ItemStrategy.h"
+
+1576636140 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\weaponstrategy.cpp
+	"WeaponStrategy.h"
+
+1576636015 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\weaponstrategy.h
+	"ItemStrategy.h"
+	"Character.h"
+
+1576632389 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\variables.h
+
