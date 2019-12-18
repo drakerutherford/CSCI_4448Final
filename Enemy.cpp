@@ -46,3 +46,10 @@ void Enemy::movement(Character * c) {
         ycoord = ny;
     }
 }
+
+void Enemy::takeDamage(Character * c) {
+    health -= c->fullAtk() - def;
+    char buf[256];
+    sprintf(buf, "You strike the %s!", name.c_str());
+    c->pushMsg(buf);
+}

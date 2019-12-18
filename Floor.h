@@ -20,6 +20,8 @@ class Floor
         void draw(WINDOW * playarea);
         void pickUpItem(Character * c);
         void enemyMovement(Character * c);
+        void updateVisibility(Character * c);
+        bool checkAttack(Character * c, int nx, int ny);
 
     protected:
 
@@ -28,6 +30,7 @@ class Floor
         int exit_y;
         std::vector<Enemy> enemies;
         std::vector<Item *> items;
+        bool visible[MAX_P_COL][MAX_P_ROW];
 };
 
 #endif // FLOOR_H

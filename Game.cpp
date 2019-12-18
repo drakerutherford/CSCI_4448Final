@@ -77,8 +77,10 @@ void Game::getInput() {
         }
     }
     if (!(nx < 1 || nx > (MAX_P_COL-2) || ny < 1 || ny > (MAX_P_ROW-2))) {
-        currentCharacter->setX(nx);
-        currentCharacter->setY(ny);
+        if (!currentFloor->checkAttack(currentCharacter, nx, ny)) {
+            currentCharacter->setX(nx);
+            currentCharacter->setY(ny);
+        }
     }
 }
 
@@ -91,5 +93,6 @@ void Game::clearWindows() {
 }
 
 void Game::timeStep() {
+    currentFloor->updateVisibility(currentCharacter);
     currentFloor->enemyMovement(currentCharacter);
 }

@@ -13,6 +13,7 @@ class Enemy : public Entity
         void movement(Character * c);
         Enemy copy();
         std::string print();
+        void takeDamage(Character * c);
 
     protected:
 

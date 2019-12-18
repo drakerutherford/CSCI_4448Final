@@ -43,7 +43,7 @@
 	"Entity.h"
 	"Variables.h"
 
-1576637137 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\enemy.h
+1576640961 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\enemy.h
 	<string>
 	"Entity.h"
 	"Character.h"
@@ -63,14 +63,15 @@
 	"Enemy.h"
 	"Item.h"
 
-1576638440 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\floor.cpp
+1576640900 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\floor.cpp
 	<stdlib.h>
 	<time.h>
 	<curses.h>
+	<cmath>
 	"Floor.h"
 	"Character.h"
 
-1576638364 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\floor.h
+1576640901 c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\floor.h
 	<vector>
 	<curses.h>
 	"Item.h"
@@ -110,7 +111,7 @@
 	"EntityPool.h"
 	"Variables.h"
 
-1576639047 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\game.cpp
+1576640772 source:c:\users\drake\documents\fall 2019\oo design\project5\oodfinalproject\game.cpp
 	<string>
 	<windows.h>
 	<winbase.h>
